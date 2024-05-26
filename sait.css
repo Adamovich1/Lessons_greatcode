@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.nachalo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 34px 0px 80px;
+}
+.nachalo ul{   
+    justify-content: center;
+    display: flex;
+    list-style: none;
+
+}
+
+.nachalo li{
+    padding: 31px;
+}
+.knopka{
+height: 38.67px;
+
+border: 1px solid rgb(247, 148, 30);
+border-radius: 5px;
+color: rgb(247, 148, 30);
+font-size: 18px;
+text-transform: uppercase;
+background-color: white;
+
+}
+
+.items{
+    display: flex;
+    width: 50%;
+
+}
+.items_1{
+    flex-direction: column;   
+    margin: 154px 126px 135px 162px;
+}
+.p1_items{
+
+    color: rgb(0, 0, 0);
+    font-size: 56px;
+
+}
+
+.p2_items{
+color: rgb(0, 0, 0);
+
+font-size: 20px;  flex-direction: column;
+padding: 36px 0px 52px;
+}
+
+.knopka_items{
+width: 200px;
+height: 60px;
+color: rgb(255, 255, 255);
+
+font-size: 18px;
+font-weight: 400;
+
+border: 1px solid;
+border-radius: 5px;
+background: rgb(247, 148, 30);
+
+}
+
+.foto2{
+
+position: absolute;
+
+right: 0%;
+
+}
+
+
